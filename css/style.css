@@ -1,0 +1,43 @@
+body{
+    font-family: "Vazir" !important;
+}
+
+.icon{
+    padding: 15px;
+    display: inline-flex;
+    border-radius: 15px;
+    color: #0d6efd;
+    background-color: #ebeafb;
+
+}
+
+.card-primary {
+    background-color: #1b2a4e;
+    color:#ebeafb !important;
+}
+
+
+
+.bg-main{
+    background-color: #1b2a4e;
+}
+
+
+
+.footer-link{
+    text-decoration:none;
+    color: black;
+
+}
+
+.footer-link:hover{
+
+    color: black;
+
+}
+
+.footer-header{
+
+    border-bottom: 3px solid;
+    height: 35px;
+}
